@@ -1,0 +1,2 @@
+platform:ios
+pod 'ReactiveCocoa', '~> 2.1.6'
